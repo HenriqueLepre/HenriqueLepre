@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Henrique Lepre.
 
-- ✨ 25 anos.
-- 🎇 Atualmente sou DEV Junior.
-- 🌱 Estudando Engenharia de Software.
+- ✨ 26 anos.
+- 🎓 Técnologo em Analise e Desenvolvimento de Sistemas.
+- 📚 Estudando Full-Stack.
 
 
  ![Snake animation](https://github.com/zNexTage/zNexTage/blob/output/github-contribution-grid-snake.svg)
